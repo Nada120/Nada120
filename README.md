@@ -1,5 +1,5 @@
 
-<img align="centre" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfvPjWAUcNmnU6PkXMfNTbzTWL28o05xmhA&usqp=CAU">  
+<img align="centre" alt="Coding" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfvPjWAUcNmnU6PkXMfNTbzTWL28o05xmhA&usqp=CAU">  
 
 
 <h1 align="center">Hi 👋, I'm Nada Tarek</h1>
